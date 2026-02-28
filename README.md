@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [BuildBack] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Nova]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Nedhya Remesh] - [College of Engineering Thalassery]
+- Member 2: [Surabhi Aneesh] - [College of Engineering Thalassery]
 
 ### Hosted Project Link
 [mention your project hosted link here]
